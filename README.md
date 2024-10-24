@@ -1,2 +1,0 @@
-# mywebchal
-challenge 2
